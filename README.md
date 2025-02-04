@@ -46,8 +46,22 @@
 ---  
 
 ### 📌 **Projetos em Destaque**  
-```markdown
-``` 
+
+#### 🖼️ [ArtOrganizer](https://github.com/Goulart-Vinicius/ArtOrganizer)  
+- Sistema para organização de coleções de artigos e/ou documentos digitais.  
+- *Tecnologias: PHP | Composer | MariaDB*  
+
+#### 🌱 [API_JARDINAGEM](https://github.com/Goulart-Vinicius/API_JARDINAGEM)  
+- API para agendamentos de jardinagem.  
+- *Tecnologias: Python | Peewee ORM | FastAPI | SQLite*  
+
+#### 🔧 [Aprendendo-apiREST](https://github.com/Goulart-Vinicius/Aprendendo-apiREST)  
+- Repositório de estudos sobre construção de APIs REST.  
+- *Tecnologias: NodeJS | Express | Postgres | bcryptjs*  
+
+#### 🧠 [Burnout](https://github.com/Goulart-Vinicius/burnout)  
+- Projeto de teste para diagnóstico de burnout.  
+- *Tecnologias: Delphi 10*   
 
 ---  
 
