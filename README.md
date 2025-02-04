@@ -13,6 +13,10 @@
 ```
 ---  
 
+### 📄 **Currículo**  
+[![Baixar Currículo](https://img.shields.io/badge/Baixar_Currículo-0078D4?style=for-the-badge&logo=microsoft-word&logoColor=white)](https://drive.google.com/file/d/1y6e3EMS0eb7x9gDIP6ljzsdLLJajP5t8/view?usp=sharing)  
+
+---
 ### 🛠 **Habilidades Técnicas**  
 
 #### Frontend  
